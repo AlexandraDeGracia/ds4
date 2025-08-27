@@ -1,0 +1,13 @@
+(1 pt) ¿Qué comando usas para saber en qué rama estás trabajando?
+status Mostrar el estado del árbol de trabajo
+(1 pt) ¿Qué diferencia hay entre git pull y git fetch?
+fetch Descargar objetos y referencias desde otro repositorio
+pull Descargar e integrar cambios desde otro repositorio o rama local
+(1 pt) ¿Qué pasa si haces git push sin haber hecho un commit antes?
+te manda  error por que no te descargara el cambios para el repositorio
+(1 pt) ¿Qué comando usas para combinar ramas?
+checkout para pasar a una rama a otra 
+(1 pt) ¿Qué comando se usa para deshacer cambios en un archivo no confirmado?
+rm Eliminar archivos del árbol de trabajo y del índice
+(1 pt) ¿Cuál es la diferencia entre git restore archivo.txt y git restore --staged archivo.txt?
+reset Restablecer el HEAD actual al estado especificado
