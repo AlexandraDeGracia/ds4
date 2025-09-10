@@ -1,0 +1,28 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\refint\manipulacionStrings.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\manipulacionStrings\manipulacionStrings\obj\Debug\net8.0\ref\manipulacionStrings.dll
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.exe
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.deps.json
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.runtimeconfig.json
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.dll
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\bin\Debug\net8.0\manipulacionStrings.pdb
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.AssemblyInfoInputs.cache
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.AssemblyInfo.cs
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.csproj.CoreCompileInputs.cache
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.dll
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\refint\manipulacionStrings.dll
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.pdb
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\manipulacionStrings.genruntimeconfig.cache
+D:\tarea_11-13\Manipulacion de strings\manipulacionStrings\obj\Debug\net8.0\ref\manipulacionStrings.dll

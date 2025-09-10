@@ -1,0 +1,14 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\bin\Debug\net8.0\operadores_racionales.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\bin\Debug\net8.0\operadores_racionales.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\bin\Debug\net8.0\operadores_racionales.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\bin\Debug\net8.0\operadores_racionales.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\bin\Debug\net8.0\operadores_racionales.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\refint\operadores_racionales.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\operadores_racionales.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_racionales\operadores_racionales\obj\Debug\net8.0\ref\operadores_racionales.dll

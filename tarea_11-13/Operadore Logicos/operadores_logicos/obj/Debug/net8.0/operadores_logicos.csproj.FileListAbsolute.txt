@@ -1,0 +1,14 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\bin\Debug\net8.0\operadores_logicos.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\bin\Debug\net8.0\operadores_logicos.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\bin\Debug\net8.0\operadores_logicos.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\bin\Debug\net8.0\operadores_logicos.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\bin\Debug\net8.0\operadores_logicos.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\refint\operadores_logicos.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\operadores_logicos.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\tarea_11-13\operadores_logicos\operadores_logicos\obj\Debug\net8.0\ref\operadores_logicos.dll
