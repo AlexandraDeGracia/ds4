@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.AssemblyInfo.cs
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\bin\Debug\net8.0\Programa cadenas.exe
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\bin\Debug\net8.0\cuento.txt
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\bin\Debug\net8.0\Programa cadenas.deps.json
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\bin\Debug\net8.0\Programa cadenas.runtimeconfig.json
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\bin\Debug\net8.0\Programa cadenas.dll
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\bin\Debug\net8.0\Programa cadenas.pdb
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.dll
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\refint\Programa cadenas.dll
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.pdb
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\Programa cadenas.genruntimeconfig.cache
+C:\Users\DELL\Documents\Retos de Cadenas en C#\Programa cadenas\Programa cadenas\obj\Debug\net8.0\ref\Programa cadenas.dll

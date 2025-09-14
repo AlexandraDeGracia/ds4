@@ -1,0 +1,29 @@
+1. Concat: Bitín con la palabra Explorador
+2. Join: En el vasto universo, Bit�n el Explorador viaja por ciudades luminosas |  Nube es su compa�era |  El cuento tiene muchos mundos y ceros y unos |  Firewall protege el sistema |  Bit�n busca una meta | 
+3. Format: El cuento tiene 190 caracteres y 32 palabras
+4. Interpolación: El protagonista es Bitín y busca explorar mundos
+5. ToString: 190 caracteres
+6. IndexOf mundo: 117
+7. LastIndexOf ceros: 126
+8. Contains Nube: Sí
+9. StartsWith: Sí
+10. EndsWith: No
+11. Substring: ciudades luminosas
+12. Remove: verso, Bit�n el Explorador viaja por ciudades luminosas. Nube es su compa�era. El cuento tiene muchos mundos y ceros y unos. Firewall protege el sistema. Bit�n busca una meta.
+13. Replace: En el vasto universo, Bit�n el Explorador viaja por ciudades luminosas. Nube es su compa�era. El cuento tiene muchos mundos y ceros y unos. Firewall protege el sistema. Bit�n busca una meta.
+14. Insert: En el vasto universo, Bit�n el Explorador viaja por ciudades luminosas. Nube es su compa�era. El cuento tiene muchos mundos y ceros y unos. Firewall protege el sistema. Bit�n busca una meta.
+15. PadLeft: *****Bitín
+16. PadRight: Nube--------
+17. Trim: ( firewall )
+18. TrimStart: Mundo binario
+19. TrimEnd: Bitín explorador
+20. Split() - Primeras 10 palabras: En, el, vasto, universo, Bit�n, el, Explorador, viaja, por, ciudades
+21. Equals: Iguales
+22. Compare: -4
+23. CompareTo: 1
+24. IsNullOrEmpty: True
+25. IsNullOrWhiteSpace: True
+26. ToLower: en el vasto universo, bit�n el explorador viaja por ciudades luminosas. nube es su compa�era. el cuento tiene muchos mundos y ceros y unos. firewall protege el sistema. bit�n busca una meta.
+27. ToUpper: EN EL VASTO UNIVERSO, BIT�N EL EXPLORADOR VIAJA POR CIUDADES LUMINOSAS. NUBE ES SU COMPA�ERA. EL CUENTO TIENE MUCHOS MUNDOS Y CEROS Y UNOS. FIREWALL PROTEGE EL SISTEMA. BIT�N BUSCA UNA META.
+28. ToLowerInvariant: nube
+29. ToUpperInvariant: BITÍN
