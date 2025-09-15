@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\bin\Debug\net8.0\Ciclos While.exe
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\bin\Debug\net8.0\Ciclos While.deps.json
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\bin\Debug\net8.0\Ciclos While.runtimeconfig.json
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\bin\Debug\net8.0\Ciclos While.dll
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\bin\Debug\net8.0\Ciclos While.pdb
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.AssemblyInfo.cs
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.dll
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\refint\Ciclos While.dll
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.pdb
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\Ciclos While.genruntimeconfig.cache
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Ciclos While\Ciclos While\Ciclos While\obj\Debug\net8.0\ref\Ciclos While.dll

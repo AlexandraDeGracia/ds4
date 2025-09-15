@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\bin\Debug\net8.0\Condicionales IF.exe
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\bin\Debug\net8.0\Condicionales IF.deps.json
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\bin\Debug\net8.0\Condicionales IF.runtimeconfig.json
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\bin\Debug\net8.0\Condicionales IF.dll
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\bin\Debug\net8.0\Condicionales IF.pdb
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.AssemblyInfo.cs
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.dll
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\refint\Condicionales IF.dll
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.pdb
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\Condicionales IF.genruntimeconfig.cache
+C:\Users\DELL\Documents\Videos del 14 al 16 platzi\Condicionales IF\Condicionales IF\Condicionales IF\obj\Debug\net8.0\ref\Condicionales IF.dll
