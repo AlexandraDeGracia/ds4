@@ -1,0 +1,53 @@
+1. Concat: Bitín con la palabra Explorador
+2. Join: En el vasto universo del mundo binario, donde solo exist�an ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armon�a |  Cada calle estaba formada por largas cadenas de c�digo que brillaban como estrellas digitales, y los habitantes, peque�os algoritmos curiosos, recorr�an los circuitos buscando dar sentido a sus vidas |  All�, todo lo que exist�a estaba gobernado por el flujo de informaci�n: la corriente el�ctrica que encend�a el mundo y el silencio que lo apagaba |  En una de esas ciudades habitaba Bit�n, un joven programa que so�aba con explorar m�s all� de los l�mites de su servidor |  
+
+Mientras otros se conformaban con repetir operaciones matem�ticas, �l deseaba descubrir qu� hab�a al otro lado del gran firewall, esa muralla invisible que proteg�a al mundo binario de amenazas externas |  Su curiosidad lo llev� a descifrar viejos fragmentos de c�digo olvidados, que hablaban de un lugar m�tico llamado �la Nube�, donde los ceros y unos pod�an transformarse en ideas infinitas |  Un d�a, armado de valor y con un pu�ado de claves encriptadas que hab�a encontrado, Bit�n atraves� la barrera | 
+
+ Del otro lado descubri� paisajes jam�s imaginados: r�os de datos en constante movimiento, mares de informaci�n sin l�mites y criaturas hechas de algoritmos que nunca hab�a visto |  Comprendi� entonces que el mundo binario era solo una peque�a parte de algo mucho m�s grande: un universo digital sin fin, en el que su misi�n ser�a guiar a otros programas hacia la libertad de explorar y evolucionar m�s all� de los confines de los ceros y unos | 
+3. Format: El cuento tiene 1585 caracteres y 256 palabras
+4. Interpolación: El protagonista es Bitín y busca explorar mundos
+5. ToString: 1585 caracteres
+6. IndexOf mundo: 25
+7. LastIndexOf ceros: 1572
+8. Contains Nube: Sí
+9. StartsWith: Sí
+10. EndsWith: No
+11. Substring: ciudades luminosas
+12. Remove: verso del mundo binario, donde solo exist�an ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armon�a. Cada calle estaba formada por largas cadenas de c�digo que brillaban como estrellas digitales, y los habitantes, peque�os algoritmos curiosos, recorr�an los circuitos buscando dar sentido a sus vidas. All�, todo lo que exist�a estaba gobernado por el flujo de informaci�n: la corriente el�ctrica que encend�a el mundo y el silencio que lo apagaba. En una de esas ciudades habitaba Bit�n, un joven programa que so�aba con explorar m�s all� de los l�mites de su servidor. 
+
+Mientras otros se conformaban con repetir operaciones matem�ticas, �l deseaba descubrir qu� hab�a al otro lado del gran firewall, esa muralla invisible que proteg�a al mundo binario de amenazas externas. Su curiosidad lo llev� a descifrar viejos fragmentos de c�digo olvidados, que hablaban de un lugar m�tico llamado �la Nube�, donde los ceros y unos pod�an transformarse en ideas infinitas. Un d�a, armado de valor y con un pu�ado de claves encriptadas que hab�a encontrado, Bit�n atraves� la barrera.
+
+ Del otro lado descubri� paisajes jam�s imaginados: r�os de datos en constante movimiento, mares de informaci�n sin l�mites y criaturas hechas de algoritmos que nunca hab�a visto. Comprendi� entonces que el mundo binario era solo una peque�a parte de algo mucho m�s grande: un universo digital sin fin, en el que su misi�n ser�a guiar a otros programas hacia la libertad de explorar y evolucionar m�s all� de los confines de los ceros y unos.
+13. Replace: En el vasto universo del mundo binario, donde solo exist�an ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armon�a. Cada calle estaba formada por largas cadenas de c�digo que brillaban como estrellas digitales, y los habitantes, peque�os algoritmos curiosos, recorr�an los circuitos buscando dar sentido a sus vidas. All�, todo lo que exist�a estaba gobernado por el flujo de informaci�n: la corriente el�ctrica que encend�a el mundo y el silencio que lo apagaba. En una de esas ciudades habitaba Bit�n, un joven programa que so�aba con explorar m�s all� de los l�mites de su servidor. 
+
+Mientras otros se conformaban con repetir operaciones matem�ticas, �l deseaba descubrir qu� hab�a al otro lado del gran firewall, esa muralla invisible que proteg�a al mundo binario de amenazas externas. Su curiosidad lo llev� a descifrar viejos fragmentos de c�digo olvidados, que hablaban de un lugar m�tico llamado �la Nube�, donde los ceros y unos pod�an transformarse en ideas infinitas. Un d�a, armado de valor y con un pu�ado de claves encriptadas que hab�a encontrado, Bit�n atraves� la barrera.
+
+ Del otro lado descubri� paisajes jam�s imaginados: r�os de datos en constante movimiento, mares de informaci�n sin l�mites y criaturas hechas de algoritmos que nunca hab�a visto. Comprendi� entonces que el mundo binario era solo una peque�a parte de algo mucho m�s grande: un universo digital sin fin, en el que su misi�n ser�a guiar a otros programas hacia la libertad de explorar y evolucionar m�s all� de los confines de los ceros y unos.
+14. Insert: En el vasto universo del mundo binario, donde solo exist�an ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armon�a. Cada calle estaba formada por largas cadenas de c�digo que brillaban como estrellas digitales, y los habitantes, peque�os algoritmos curiosos, recorr�an los circuitos buscando dar sentido a sus vidas. All�, todo lo que exist�a estaba gobernado por el flujo de informaci�n: la corriente el�ctrica que encend�a el mundo y el silencio que lo apagaba. En una de esas ciudades habitaba Bit�n, un joven programa que so�aba con explorar m�s all� de los l�mites de su servidor. 
+
+Mientras otros se conformaban con repetir operaciones matem�ticas, �l deseaba descubrir qu� hab�a al otro lado del gran firewall (IMPORTANTE), esa muralla invisible que proteg�a al mundo binario de amenazas externas. Su curiosidad lo llev� a descifrar viejos fragmentos de c�digo olvidados, que hablaban de un lugar m�tico llamado �la Nube�, donde los ceros y unos pod�an transformarse en ideas infinitas. Un d�a, armado de valor y con un pu�ado de claves encriptadas que hab�a encontrado, Bit�n atraves� la barrera.
+
+ Del otro lado descubri� paisajes jam�s imaginados: r�os de datos en constante movimiento, mares de informaci�n sin l�mites y criaturas hechas de algoritmos que nunca hab�a visto. Comprendi� entonces que el mundo binario era solo una peque�a parte de algo mucho m�s grande: un universo digital sin fin, en el que su misi�n ser�a guiar a otros programas hacia la libertad de explorar y evolucionar m�s all� de los confines de los ceros y unos.
+15. PadLeft: *****Bitín
+16. PadRight: Nube--------
+17. Trim: ( firewall )
+18. TrimStart: Mundo binario
+19. TrimEnd: Bitín explorador
+20. Split() - Primeras 10 palabras: En, el, vasto, universo, del, mundo, binario, donde, solo, exist�an
+21. Equals: Iguales
+22. Compare: -4
+23. CompareTo: 1
+24. IsNullOrEmpty: True
+25. IsNullOrWhiteSpace: True
+26. ToLower: en el vasto universo del mundo binario, donde solo exist�an ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armon�a. cada calle estaba formada por largas cadenas de c�digo que brillaban como estrellas digitales, y los habitantes, peque�os algoritmos curiosos, recorr�an los circuitos buscando dar sentido a sus vidas. all�, todo lo que exist�a estaba gobernado por el flujo de informaci�n: la corriente el�ctrica que encend�a el mundo y el silencio que lo apagaba. en una de esas ciudades habitaba bit�n, un joven programa que so�aba con explorar m�s all� de los l�mites de su servidor. 
+
+mientras otros se conformaban con repetir operaciones matem�ticas, �l deseaba descubrir qu� hab�a al otro lado del gran firewall, esa muralla invisible que proteg�a al mundo binario de amenazas externas. su curiosidad lo llev� a descifrar viejos fragmentos de c�digo olvidados, que hablaban de un lugar m�tico llamado �la nube�, donde los ceros y unos pod�an transformarse en ideas infinitas. un d�a, armado de valor y con un pu�ado de claves encriptadas que hab�a encontrado, bit�n atraves� la barrera.
+
+ del otro lado descubri� paisajes jam�s imaginados: r�os de datos en constante movimiento, mares de informaci�n sin l�mites y criaturas hechas de algoritmos que nunca hab�a visto. comprendi� entonces que el mundo binario era solo una peque�a parte de algo mucho m�s grande: un universo digital sin fin, en el que su misi�n ser�a guiar a otros programas hacia la libertad de explorar y evolucionar m�s all� de los confines de los ceros y unos.
+27. ToUpper: EN EL VASTO UNIVERSO DEL MUNDO BINARIO, DONDE SOLO EXIST�AN CEROS Y UNOS, SE LEVANTABAN CIUDADES LUMINOSAS CONSTRUIDAS CON BITS QUE DANZABAN EN PERFECTA ARMON�A. CADA CALLE ESTABA FORMADA POR LARGAS CADENAS DE C�DIGO QUE BRILLABAN COMO ESTRELLAS DIGITALES, Y LOS HABITANTES, PEQUE�OS ALGORITMOS CURIOSOS, RECORR�AN LOS CIRCUITOS BUSCANDO DAR SENTIDO A SUS VIDAS. ALL�, TODO LO QUE EXIST�A ESTABA GOBERNADO POR EL FLUJO DE INFORMACI�N: LA CORRIENTE EL�CTRICA QUE ENCEND�A EL MUNDO Y EL SILENCIO QUE LO APAGABA. EN UNA DE ESAS CIUDADES HABITABA BIT�N, UN JOVEN PROGRAMA QUE SO�ABA CON EXPLORAR M�S ALL� DE LOS L�MITES DE SU SERVIDOR. 
+
+MIENTRAS OTROS SE CONFORMABAN CON REPETIR OPERACIONES MATEM�TICAS, �L DESEABA DESCUBRIR QU� HAB�A AL OTRO LADO DEL GRAN FIREWALL, ESA MURALLA INVISIBLE QUE PROTEG�A AL MUNDO BINARIO DE AMENAZAS EXTERNAS. SU CURIOSIDAD LO LLEV� A DESCIFRAR VIEJOS FRAGMENTOS DE C�DIGO OLVIDADOS, QUE HABLABAN DE UN LUGAR M�TICO LLAMADO �LA NUBE�, DONDE LOS CEROS Y UNOS POD�AN TRANSFORMARSE EN IDEAS INFINITAS. UN D�A, ARMADO DE VALOR Y CON UN PU�ADO DE CLAVES ENCRIPTADAS QUE HAB�A ENCONTRADO, BIT�N ATRAVES� LA BARRERA.
+
+ DEL OTRO LADO DESCUBRI� PAISAJES JAM�S IMAGINADOS: R�OS DE DATOS EN CONSTANTE MOVIMIENTO, MARES DE INFORMACI�N SIN L�MITES Y CRIATURAS HECHAS DE ALGORITMOS QUE NUNCA HAB�A VISTO. COMPRENDI� ENTONCES QUE EL MUNDO BINARIO ERA SOLO UNA PEQUE�A PARTE DE ALGO MUCHO M�S GRANDE: UN UNIVERSO DIGITAL SIN FIN, EN EL QUE SU MISI�N SER�A GUIAR A OTROS PROGRAMAS HACIA LA LIBERTAD DE EXPLORAR Y EVOLUCIONAR M�S ALL� DE LOS CONFINES DE LOS CEROS Y UNOS.
+28. ToLowerInvariant: nube
+29. ToUpperInvariant: BITÍN

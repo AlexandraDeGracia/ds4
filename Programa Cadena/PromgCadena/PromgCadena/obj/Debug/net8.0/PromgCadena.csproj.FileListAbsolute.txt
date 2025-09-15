@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\bin\Debug\net8.0\PromgCadena.exe
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\bin\Debug\net8.0\PromgCadena.deps.json
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\bin\Debug\net8.0\PromgCadena.runtimeconfig.json
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\bin\Debug\net8.0\PromgCadena.dll
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\bin\Debug\net8.0\PromgCadena.pdb
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.AssemblyInfo.cs
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.dll
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\refint\PromgCadena.dll
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.pdb
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\PromgCadena.genruntimeconfig.cache
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\obj\Debug\net8.0\ref\PromgCadena.dll
+C:\Users\DELL\Documents\Programa Cadena\PromgCadena\PromgCadena\bin\Debug\net8.0\cuento.txt
