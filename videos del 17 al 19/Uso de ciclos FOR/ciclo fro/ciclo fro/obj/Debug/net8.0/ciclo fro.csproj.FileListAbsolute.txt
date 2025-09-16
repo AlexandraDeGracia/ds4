@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\bin\Debug\net8.0\ciclo fro.exe
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\bin\Debug\net8.0\ciclo fro.deps.json
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\bin\Debug\net8.0\ciclo fro.runtimeconfig.json
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\bin\Debug\net8.0\ciclo fro.dll
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\bin\Debug\net8.0\ciclo fro.pdb
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.AssemblyInfo.cs
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.dll
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\refint\ciclo fro.dll
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.pdb
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ciclo fro.genruntimeconfig.cache
+C:\Users\DELL\Documents\videos del 17 al 19\Uso de ciclos FOR\ciclo fro\ciclo fro\obj\Debug\net8.0\ref\ciclo fro.dll
