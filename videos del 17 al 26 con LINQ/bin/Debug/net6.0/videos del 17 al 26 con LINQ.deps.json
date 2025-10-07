@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "videos del 17 al 26 con LINQ/1.0.0": {
+        "runtime": {
+          "videos del 17 al 26 con LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "videos del 17 al 26 con LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\bin\Debug\net6.0\videos del 17 al 26 con LINQ.exe
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\bin\Debug\net6.0\videos del 17 al 26 con LINQ.deps.json
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\bin\Debug\net6.0\videos del 17 al 26 con LINQ.runtimeconfig.json
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\bin\Debug\net6.0\videos del 17 al 26 con LINQ.dll
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\bin\Debug\net6.0\videos del 17 al 26 con LINQ.pdb
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.AssemblyInfo.cs
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.dll
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\refint\videos del 17 al 26 con LINQ.dll
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.pdb
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\videos del 17 al 26 con LINQ.genruntimeconfig.cache
+C:\Users\DELL\Documents\videos del 17 al 26 con LINQ\obj\Debug\net6.0\ref\videos del 17 al 26 con LINQ.dll
